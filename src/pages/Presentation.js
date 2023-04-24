@@ -298,7 +298,7 @@ export default () => {
                 </Button>
               </div>
             </Col>
-            {/* <Col xs={12} lg={6} className="order-lg-first d-flex justify-content-center">
+            <Col xs={12} lg={6} className="order-lg-first d-flex justify-content-center">
               <ListGroup className="d-block fmw-100 list-style-none folder-structure">
                 <FolderItem name="src" tooltip="Main folder that you will be working with" />
 
@@ -319,7 +319,7 @@ export default () => {
                 <FolderItem name="README.md" tooltip="No project can miss a README :)" icon={faFileCode} iconColor="tertiary" />
                 <FolderItem name=".gitignore" tooltip="This file ensures that generated files and folder are ignored by Git. (eg. node_modules)" icon={faFileCode} iconColor="tertiary" />
               </ListGroup>
-            </Col> */}
+            </Col>
             <Col xs={12} className="mt-5 d-lg-none">
               <h5>A estrutura de pastas perfeita para o seu projeto</h5>
               <p className="lead mb-4">A estrutura de pastas é baseada no popular <code>create-react-app</code> utilizando arquivos Sass para pre-processar o CSS.</p>
